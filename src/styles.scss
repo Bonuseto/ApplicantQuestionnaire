@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+button {
+  border-radius: 0;
+  border: none;
+  background-color: rgb(245, 245, 245);
+}
